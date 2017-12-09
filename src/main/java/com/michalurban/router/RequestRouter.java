@@ -1,4 +1,4 @@
-package com.michalurban;
+package com.michalurban.router;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
-import com.michalurban.WebRoute.METHOD;
+import com.michalurban.router.WebRoute.METHOD;
 
 public class RequestRouter implements HttpHandler {
 

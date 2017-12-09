@@ -1,4 +1,4 @@
-package com.michalurban;
+package com.michalurban.router;
 
 class HtmlPage {
 

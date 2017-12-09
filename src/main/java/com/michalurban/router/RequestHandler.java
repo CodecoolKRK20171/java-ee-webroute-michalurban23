@@ -1,11 +1,11 @@
-package com.michalurban;
+package com.michalurban.router;
 
 import com.sun.net.httpserver.HttpExchange;
 
 import java.io.*;
 import java.net.URLDecoder;
 
-import com.michalurban.WebRoute.METHOD;
+import com.michalurban.router.WebRoute.METHOD;
 
 class RequestHandler {
 

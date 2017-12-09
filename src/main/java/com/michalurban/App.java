@@ -1,5 +1,7 @@
 package com.michalurban;
 
+import com.michalurban.router.Server;
+
 import java.io.IOException;
 
 public class App {
